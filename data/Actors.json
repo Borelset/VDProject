@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"jojo_battle","characterIndex":0,"characterName":"jojo","classId":3,"equips":[3,0,2,3,0],"faceIndex":0,"faceName":"jojo","traits":[{"code":22,"dataId":8,"value":10}],"initialLevel":1,"maxLevel":99,"name":"JOJO","nickname":"嗯嗯怪","note":"","profile":""},
+{"id":2,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":2,"equips":[1,1,2,3,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Borelset","nickname":"哼哼怪","note":"","profile":""}
+]
